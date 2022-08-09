@@ -1,0 +1,3 @@
+/Users/patrick/Desktop/C:C++/CFiles/Hello World/cmake-build-debug/CMakeFiles/Hello_World.dir
+/Users/patrick/Desktop/C:C++/CFiles/Hello World/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrick/Desktop/C:C++/CFiles/Hello World/cmake-build-debug/CMakeFiles/rebuild_cache.dir

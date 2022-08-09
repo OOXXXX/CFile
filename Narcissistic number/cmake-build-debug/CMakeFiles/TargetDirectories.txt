@@ -1,0 +1,3 @@
+/Users/patrick/Desktop/C:C++/CFiles/Narcissistic number/cmake-build-debug/CMakeFiles/Narcissistic_number.dir
+/Users/patrick/Desktop/C:C++/CFiles/Narcissistic number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrick/Desktop/C:C++/CFiles/Narcissistic number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
