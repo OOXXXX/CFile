@@ -8,6 +8,7 @@ int main() {
         for (int j = 1; j < 10; ++j) {
             if (i < j) break;
             printf("%d x %d = %d ", i, j, i * j);
+
         }
         printf("\n");
     }
