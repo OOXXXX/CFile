@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-    int a[10] = {1, 3, 5, 4, 2, 6, 7, 8, 10, 9};
+    int a[10] = {1, 3, 5, 7, 2, 6, 4, 8, 10, 9};
     int i, j, temp;
     for (i = 0; i < 10; i++) {
         for (j = 0; j < 10 - i - 1; j++) {
